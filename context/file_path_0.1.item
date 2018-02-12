@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_luKn8A_5Eeiif-Pc2kI4yg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_luKn8Q_5Eeiif-Pc2kI4yg" comment="" name="rakutenCsvPath" prompt="rakutenCsvPath?" promptNeeded="false" type="id_String" value="C:\Users\heroj_000\Desktop\CreditCardTool\入力データ\楽天csv"/>
+  <contextParameter xmi:id="_luKn8g_5Eeiif-Pc2kI4yg" comment="" name="userInputCsvPath" prompt="userInputCsvPath?" promptNeeded="false" type="id_String" value="C:\Users\heroj_000\Desktop\CreditCardTool\入力データ\ユーザ入力csv"/>
+  <contextParameter xmi:id="_luKn8w_5Eeiif-Pc2kI4yg" comment="" name="overChargedReportPath" prompt="overChargedReportPath?" promptNeeded="false" type="id_String" value="C:\Users\heroj_000\Desktop\CreditCardTool\精算報告書"/>
+  <contextParameter xmi:id="_luKn9A_5Eeiif-Pc2kI4yg" comment="" name="unchargedReportPath" prompt="unchargedReportPath?" promptNeeded="false" type="id_String" value="C:\Users\heroj_000\Desktop\CreditCardTool\精算報告書"/>
+  <contextParameter xmi:id="_luKn9Q_5Eeiif-Pc2kI4yg" comment="" name="overChargedReportFileName" prompt="overChargedReportFileName?" promptNeeded="false" type="id_String" value="不当請求分"/>
+  <contextParameter xmi:id="_luKn9g_5Eeiif-Pc2kI4yg" comment="" name="unchargedReportFileName" prompt="unchargedReportFileName?" promptNeeded="false" type="id_String" value="　未請求分"/>
+  <contextParameter xmi:id="_luKn9w_5Eeiif-Pc2kI4yg" comment="" name="overChargedReportBKPath" prompt="overChargedReportBKPath?" promptNeeded="false" type="id_String" value="C:\Users\heroj_000\Desktop\CreditCardTool\精算報告書\old"/>
+  <contextParameter xmi:id="_luKn-A_5Eeiif-Pc2kI4yg" comment="" name="unchargedReportBKPath" prompt="unchargedReportBKPath?" promptNeeded="false" type="id_String" value="C:\Users\heroj_000\Desktop\CreditCardTool\精算報告書\old"/>
+  <contextParameter xmi:id="_luKn-Q_5Eeiif-Pc2kI4yg" comment="" name="rakutenCsvBKPath" prompt="rakutenCsvBKPath?" promptNeeded="false" type="id_String" value="C:\Users\heroj_000\Desktop\CreditCardTool\入力データ\楽天csv\done"/>
+  <contextParameter xmi:id="_luKn-g_5Eeiif-Pc2kI4yg" comment="" name="userInputCsvBKPath" prompt="userInputCsvBKPath?" promptNeeded="false" type="id_String" value="C:\Users\heroj_000\Desktop\CreditCardTool\入力データ\ユーザ入力csv\done"/>
+</talendfile:ContextType>
