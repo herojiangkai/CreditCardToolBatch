@@ -313,7 +313,7 @@
         <mapperTableEntries name="future_use_number_4" type="id_Integer" nullable="true"/>
         <mapperTableEntries name="future_use_money_5" type="id_Float" nullable="true"/>
       </outputTables>
-      <inputTables sizeState="INTERMEDIATE" name="row1" matchingMode="UNIQUE_MATCH" lookupMode="LOAD_ONCE">
+      <inputTables sizeState="INTERMEDIATE" name="row1" expressionFilter="!&quot;&quot;.equals(row1.newColumn7)" activateExpressionFilter="true" columnNameFilter="" matchingMode="UNIQUE_MATCH" lookupMode="LOAD_ONCE">
         <mapperTableEntries name="newColumn1" type="id_String" nullable="true"/>
         <mapperTableEntries name="newColumn2" type="id_String" nullable="true"/>
         <mapperTableEntries name="newColumn3" type="id_String" nullable="true"/>
